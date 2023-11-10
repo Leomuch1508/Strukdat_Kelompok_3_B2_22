@@ -1,0 +1,4 @@
+Babi,Betina,2,Persia,2500000,5,1
+Anjing,Jantan,4,Retrierver,3000000,8,2
+Burung,Betina,3,LoveBird,350000,5,4
+Kucing,Jantan,2,Miaw,400000,1,5

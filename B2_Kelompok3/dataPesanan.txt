@@ -1,0 +1,2 @@
+A,Anjing,Jantan,4,Retrierver,3000000,2,6000000
+A,Anjing,Jantan,4,Retrierver,3000000,2,6000000
